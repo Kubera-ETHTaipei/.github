@@ -10,3 +10,9 @@ This can easily be extended to a real world formula which uses credit history, m
 
 * Next, for the Defi protocol section- currently for the alpha stage we only allow trusted protocols to have access to our platform. Hence, protocols will have to get themselves whitelisted. Once they are, they can leverage Kubera to find if a certain user’s score is greater than their threshold.This also means that the protocol never finds out what the score of an user is; only if they are higher than the threshold.
 
+
+High Level Architecture Overview:
+[Architecture](https://excalidraw.com/#json=w8ty8iO-wzVatKMCx8N2H,g_pAD6upLwu7cIWg6Z6zRw)
+
+![ARCHITECTURE](https://github.com/Kubera-ETHTaipei/.github/blob/main/Screenshot%202024-03-26%20122103.jpg)
+

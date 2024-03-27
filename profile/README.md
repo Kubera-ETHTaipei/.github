@@ -14,6 +14,8 @@ This can easily be extended to a real world formula which uses credit history, m
 
 * DEFI PROTOCOL - Currently for the alpha stage we only allow trusted protocols to have access to our platform. Hence, protocols will have to get themselves whitelisted. Once they are, they can leverage Kubera to find if a certain user’s score is greater than their threshold.This also means that the protocol never finds out what the score of an user is; only if they are higher than the threshold.
 
+[Kubera](https://frontend-three-flax.vercel.app/)
+
 [Presentation](https://pitch.com/v/kubera-snyix2)
 
 [Demo Video](https://www.loom.com/share/ccb3125dc22e4e0fa0b45f6511ddf062?sid=87c86de9-8eda-4b67-ae58-4cd15d1cde46)
